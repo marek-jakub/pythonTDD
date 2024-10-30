@@ -4,3 +4,4 @@ functional_tests.py~
 __pycache__
 *.pyc
 *~
+\#*
